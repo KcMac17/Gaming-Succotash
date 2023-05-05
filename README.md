@@ -1,2 +1,6 @@
 # Gaming-Succotash
-Contractual obligations 
+Contractual obligations
+
+[Terms](/Agreement-Terms.md)
+
+[Approved Games](/approved-games.md)
